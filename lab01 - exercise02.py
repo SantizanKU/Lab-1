@@ -6,4 +6,4 @@ Lab: Lab01
 Last modified: 8-29-2025
 Purpose: Print biographical information
 '''
-print('My name is Zane Santiago\nI am an Electrical Engineering major.\nMy Hobbies are:\nGaming\nMusic\nCooking\nGoodbye')
+print('My name is Zane Santiago\nI am an Electrical Engineering major.\nMy Hobbies are:\n\tGaming\n\tMusic\n\tCooking\nGoodbye')
